@@ -57,7 +57,7 @@ Hi! ${msg.chat.username}\n
 bot created by @rifas11\n
 just send youtube video url`,key)
 
-}else if(message == "About"){
+}else if(message == "𝔸𝕓𝕠𝕦𝕥"){
      bot.sendMessage(chatId,"About")
    }else{
      console.log(message)
