@@ -49,7 +49,7 @@ bot.on("message",async(msg)=>{
      var key = {
   reply_markup:{
     resize_keyboard:true,
-    keyboard:[[{text:"About"}]]
+    keyboard:[[{text:"𝔸𝕓𝕠𝕦𝕥"}]]
   }
 }
      bot.sendMessage(chatId,`
